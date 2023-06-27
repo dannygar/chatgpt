@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "onWindowChange",
+    "python.createEnvironment.contentButton": "show",
+    "python.defaultInterpreterPath": "python",
+    "python.autoComplete.extraPaths": [
+
+    ],
+    "python.envFile": "${workspaceFolder}/.env"
+}
