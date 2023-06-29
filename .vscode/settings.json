@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "onWindowChange",
+    "python.createEnvironment.contentButton": "show",
+    "python.defaultInterpreterPath": "python",
+    "python.autoComplete.extraPaths": [
+        ["C:\\Python39\\lib\\site-packages\\streamlit"]
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.analysis.extraPaths": []
+}
