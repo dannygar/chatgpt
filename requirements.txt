@@ -1,6 +1,9 @@
 python-dotenv
-streamlit
+streamlit==1.24.0
+numpy==1.24.0
+protobuf==3.20.*
 streamlit-extras
+streamlit_chat
 altair
 PyPDF2
 openai
